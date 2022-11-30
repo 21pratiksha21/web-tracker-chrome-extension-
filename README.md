@@ -2,7 +2,6 @@
 ### Description
 This is a chrome extension that will track what domains a user is visiting and the time he/she spent on respective domains. Users can find it very helpful to analyze and improve their web-browsing habits.
 
-_This project is distributed and prepared under the guidance of Coding Club, IIT Guwahati._
  
 ***
 ### Features and Guide
